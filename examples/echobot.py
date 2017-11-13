@@ -1,8 +1,8 @@
 from line import LineClient, LineGroup, LineContact
 
 try:
-    client = LineClient("ID", "PASSWORD")
-    #client = LineClient(authToken="AUTHTOKEN")
+    client = LineClient("playbotone", "Kongkalikong20")
+    #client = LineClient(authToken="EmBP4mgqjEWSSAyDpHqc.PlwVZTTm9mw9Pkts9rZiRa.NFwaEqaIWvkfVY+vp+oyp0im2+v3I4a6Th3RJZ8ZCqE=")
 except:
     print "Login Failed"
 
